@@ -1,4 +1,4 @@
 PLImage
 =======
 
-Use it like [UIImage imageNamed:xxx], but PLImage will release memory when the image no longer in use.
+Use it with [PLImage imageNamed:xxx] like UIImage, but PLImage will release memory when the image no longer in use.
